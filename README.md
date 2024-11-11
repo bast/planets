@@ -3,6 +3,12 @@
 This is part of https://coderefinery.github.io/reproducible-python/.
 
 
+
+<div style="border: 1px solid red; padding: 10px; background-color: #ffe6e6; color: #900;">
+<strong>Warning:</strong> This is a warning message.
+</div>
+
+
 ## Purpose
 
 (...)
